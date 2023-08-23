@@ -2,9 +2,9 @@
 
 I'm **Lucas Umlauf** from Brazil 🇧🇷 , and I'm aiming to be a Software Engineer. I've been learning software development since 2023. 🖥️💜
 <br><br>
-I really love tech, creating things, and learning. I'm up for new challenges and always ready for changes. 🔮🔭
+I really love tech, creating things, and learning. I'm up for new challenges and always ready for changes. 🔮
 
-- 🍇 I’m currently learning Python and Database
+- 🔭 I’m currently learning Python and Database
 - ☂️ My website and portifolio ▸ https://www.lucasumlauf.com
 
 ##
